@@ -28,6 +28,18 @@
             <td>2020</td>
             <td>8.0</td>
         </tr>
+        <tr>
+            <td>Red Dead Redemption 2</td>
+            <td>Actie/Avontuur</td>
+            <td>2018</td>
+            <td>9.7/10</td>
+        </tr>
+        <tr>
+                <td>Elden Ring</td>
+                <td>RPG</td>
+                <td>2022</td>
+                <td>9.5/10</td>
+        </tr>
     </table>
 </body>
 </html>
